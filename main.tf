@@ -1,4 +1,4 @@
-# This small project creates an Ubuntu 22.04 server on AWS and runs there Docker container with Git (from my repository).
+# This small project creates an Ubuntu 22.04 server on AWS and runs there Docker container with Terraform.
 
 # Define the AWS provider with the desired region
 provider "aws" {
